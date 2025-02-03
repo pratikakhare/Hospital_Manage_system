@@ -1,0 +1,51 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: linear-gradient(to left,#F5EEF8,#FEECE2); 
+}
+.container{
+    margin: 10px auto;
+    /* border: 1px solid black; */
+    background-color: white;
+}
+.inline-h1 {
+    display: inline-block;
+}
+.drop{
+    margin-top: 20px;
+
+}
+#dropdownMenuButton1{
+    background-color: white;
+    color: black;
+    box-shadow: 4px 4px 4px #84F9E2  ;
+    font-size: 18px;
+}
+.calls{
+    margin-top: 10px;
+    /* margin-left: 10px; */
+}
+#dropdownMenuButton1:hover{
+    background-color: #FCF3CF;
+    }
+
+/* END OF HEADER DESIGN */
+
+.panya{
+    width: 800px;
+    height: 600px;
+    border: 1px solid #16A085;
+    margin-left: 150px;
+    border-radius: 20px;
+    margin-top: 70px;
+}
+.form-group{
+    margin-top: 20px;
+}
+.sub{
+    color: green;
+    border: 1px solid black;
+    width: 100px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 50px;
+}

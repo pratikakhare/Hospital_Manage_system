@@ -1,0 +1,127 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: linear-gradient(to left,#F5EEF8,#FEECE2); 
+    overflow-x: hidden;
+}
+.container{
+    margin: 10px auto;
+    /* border: 1px solid black; */
+    background-color: white;
+}
+.inline-h1 {
+    display: inline-block;
+}
+.drop{
+    margin-top: 20px;
+}
+#dropdownMenuButton1{
+    background-color: white;
+    color: black;
+    box-shadow: 4px 4px 4px #84F9E2  ;
+    font-size: 18px;
+}
+.calls{
+    margin-top: 10px;
+    /* margin-left: 10px; */
+}
+#dropdownMenuButton1:hover{
+    background-color: #FCF3CF;
+    }
+/* END OF HEADER DESIGN */
+
+.tables{
+    /* border: 1px solid black; */
+    margin-top:40px;
+}
+.tables h2{
+    margin-left: 150px;
+    color: #45B39D;
+    font-weight: bold;
+}
+
+label{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+input{
+    width: 250px;
+    font-size: 20px;
+    border: 1px solid #45B39D;
+    border-radius: 10px;
+    padding-left: 10px;
+    background: transparent;
+
+}
+input:hover{
+    background-color: #D4E6F1 ;
+    border-color: blueviolet;
+}
+#special{
+    width: 250px;
+    min-height: 35px;
+    font-size: 20px;
+    border: 1px solid #45B39D;
+    border-radius: 10px;
+    padding-left: 10px;
+    background: transparent;
+    cursor: pointer;
+}
+#special:hover{
+    background-color: #D4E6F1 ;
+    border-color: blueviolet;
+}
+#gender{
+    width: 250px;
+    min-height: 35px;
+    font-size: 20px;
+    border: 1px solid #45B39D;
+    border-radius: 10px;
+    padding-left: 10px;
+    background: transparent;
+    cursor: pointer;
+}
+#gender:hover{
+    background-color: #D4E6F1 ;
+    border-color: blueviolet;
+}
+input[type=submit]
+{
+    margin-left: 100px;
+    width: 100px;
+    min-height: 35px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #9AFA17 ;
+}
+input[type=submit]:hover{
+    background-color: #5DADE2 ;
+}
+
+input[type=reset]
+{
+    margin-left: 70px;
+    width: 100px;
+    min-height: 35px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #9AFA17 ;
+}
+input[type=reset]:hover{
+    background-color: #5DADE2 ;
+   
+}
+#availability{
+    width: 250px;
+    min-height: 35px;
+    font-size: 20px;
+    border: 1px solid #45B39D;
+    border-radius: 10px;
+    padding-left: 10px;
+    background: transparent;
+    cursor: pointer;
+}
+#availability:hover{
+    background-color: #D4E6F1 ;
+    border-color: blueviolet;
+}
